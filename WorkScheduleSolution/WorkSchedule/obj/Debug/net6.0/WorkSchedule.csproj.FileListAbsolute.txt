@@ -1,0 +1,14 @@
+C:\Users\ekwom\OneDrive\Desktop\3rd semester  at NAIT\App Dev (DMIT 2018)\Assignments\2018-sep-2022-a01-exercises-Phahose\WorkScheduleSolution\WorkSchedule\bin\Debug\net6.0\WorkSchedule.deps.json
+C:\Users\ekwom\OneDrive\Desktop\3rd semester  at NAIT\App Dev (DMIT 2018)\Assignments\2018-sep-2022-a01-exercises-Phahose\WorkScheduleSolution\WorkSchedule\bin\Debug\net6.0\WorkSchedule.runtimeconfig.json
+C:\Users\ekwom\OneDrive\Desktop\3rd semester  at NAIT\App Dev (DMIT 2018)\Assignments\2018-sep-2022-a01-exercises-Phahose\WorkScheduleSolution\WorkSchedule\bin\Debug\net6.0\WorkSchedule.dll
+C:\Users\ekwom\OneDrive\Desktop\3rd semester  at NAIT\App Dev (DMIT 2018)\Assignments\2018-sep-2022-a01-exercises-Phahose\WorkScheduleSolution\WorkSchedule\bin\Debug\net6.0\WorkSchedule.pdb
+C:\Users\ekwom\OneDrive\Desktop\3rd semester  at NAIT\App Dev (DMIT 2018)\Assignments\2018-sep-2022-a01-exercises-Phahose\WorkScheduleSolution\WorkSchedule\obj\Debug\net6.0\WorkSchedule.csproj.AssemblyReference.cache
+C:\Users\ekwom\OneDrive\Desktop\3rd semester  at NAIT\App Dev (DMIT 2018)\Assignments\2018-sep-2022-a01-exercises-Phahose\WorkScheduleSolution\WorkSchedule\obj\Debug\net6.0\WorkSchedule.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ekwom\OneDrive\Desktop\3rd semester  at NAIT\App Dev (DMIT 2018)\Assignments\2018-sep-2022-a01-exercises-Phahose\WorkScheduleSolution\WorkSchedule\obj\Debug\net6.0\WorkSchedule.AssemblyInfoInputs.cache
+C:\Users\ekwom\OneDrive\Desktop\3rd semester  at NAIT\App Dev (DMIT 2018)\Assignments\2018-sep-2022-a01-exercises-Phahose\WorkScheduleSolution\WorkSchedule\obj\Debug\net6.0\WorkSchedule.AssemblyInfo.cs
+C:\Users\ekwom\OneDrive\Desktop\3rd semester  at NAIT\App Dev (DMIT 2018)\Assignments\2018-sep-2022-a01-exercises-Phahose\WorkScheduleSolution\WorkSchedule\obj\Debug\net6.0\WorkSchedule.csproj.CoreCompileInputs.cache
+C:\Users\ekwom\OneDrive\Desktop\3rd semester  at NAIT\App Dev (DMIT 2018)\Assignments\2018-sep-2022-a01-exercises-Phahose\WorkScheduleSolution\WorkSchedule\obj\Debug\net6.0\WorkSchedule.dll
+C:\Users\ekwom\OneDrive\Desktop\3rd semester  at NAIT\App Dev (DMIT 2018)\Assignments\2018-sep-2022-a01-exercises-Phahose\WorkScheduleSolution\WorkSchedule\obj\Debug\net6.0\refint\WorkSchedule.dll
+C:\Users\ekwom\OneDrive\Desktop\3rd semester  at NAIT\App Dev (DMIT 2018)\Assignments\2018-sep-2022-a01-exercises-Phahose\WorkScheduleSolution\WorkSchedule\obj\Debug\net6.0\WorkSchedule.pdb
+C:\Users\ekwom\OneDrive\Desktop\3rd semester  at NAIT\App Dev (DMIT 2018)\Assignments\2018-sep-2022-a01-exercises-Phahose\WorkScheduleSolution\WorkSchedule\obj\Debug\net6.0\WorkSchedule.genruntimeconfig.cache
+C:\Users\ekwom\OneDrive\Desktop\3rd semester  at NAIT\App Dev (DMIT 2018)\Assignments\2018-sep-2022-a01-exercises-Phahose\WorkScheduleSolution\WorkSchedule\obj\Debug\net6.0\ref\WorkSchedule.dll

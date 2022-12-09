@@ -1,0 +1,65 @@
+﻿@page "{phone?}"
+@model WorkScheduleApp.Pages.SearchEmployeeModel
+@{
+    ViewData["Title"] = "Search an Employee";
+}
+<form method="post">
+    <label>Search an Employee</label>
+    <input type="text" asp-for="@Model.PhoneNumber" placeholder="phone number here...">
+    @if (Model.EmployeeInfo !=null)
+    {
+        if(Model.EmployeeInfo ==  null)
+        {
+            <p>No records were found</p>
+        }
+        else
+        {
+            <table>
+                 <thead>
+                    <tr>
+                        <th>Name</th>
+                        <th>Skills</th>
+                        <th>Level</th>
+                        <th>Years Of Experience</th>
+                        <th>Hourly Waage</th>
+                    </tr>
+                </thead>
+                <tbody>                                         
+                @foreach (var skill in Model.EmployeeSkillsInfo)
+                {
+                    <tr>
+                              
+                    <td>@Model.EmployeeInfo.FirstName  @Model.EmployeeInfo.LastName</td>
+                    <td>
+                        @skill.Description
+                    </td>
+                    <td>
+                        @if (@skill.Level == 1)
+                        {
+                           @Model.SkillLevelNovice   
+                        }
+                        else if(@skill.Level == 2)
+                        {
+                            @Model.SkillLevelProficient
+                        } 
+                        else if(@skill.Level == 3)
+                        {
+                            @Model.SkillLevelExpert
+                        }
+                       
+                    </td>
+                    <td>
+                        @skill.YearsOfExperience
+                    </td>
+                    <td>
+                        @skill.HourlyWage
+                    </td>
+                    </tr>
+                }
+                </tbody>
+            </table>
+        }
+    }
+    <button type="submit" asp-page-handler="Fetch">Find Employee</button>
+    <button type="submit" asp-page-handler="Clear">Clear</button>
+</form>

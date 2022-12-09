@@ -1,0 +1,83 @@
+﻿@page
+@model WorkScheduleApp.Pages.Samples.AddSkillModel
+@{
+    ViewData["Title"] = "This is where the Employess skill will be updated";
+}
+<h2>Add Skills To an Employee</h2>
+<form method="post">
+    <div>
+    <label>
+        First Name 
+        <input type="text" asp-for="@Model.FirstName"/>
+    </label>
+    <label>
+        Last Name
+        <input type="text" asp-for="@Model.LastName" />
+    </label>
+    <label>
+        HomePhone
+            <input type="text" asp-for="@Model.HomePhone" pattern="[0-9]{3}.[0-9]{3}.[0-9]{4}" title="Phone number must be in correct format, e.g., 780.555.1212" />
+    </label>
+    </div>
+    <br />
+    <div>
+        <button type="submit" asp-page-handler="RegisterEmployee"
+                title="Register Skill">
+            Register
+        </button>
+        <button type="submit" asp-page-handler="Clear"
+                title="Clear Form">
+            Clear
+        </button>
+    </div>
+
+@if (Model.HasError)
+{
+    <blockquote class="error">
+        @Model.ErrorFeedback
+        <ul>
+            @foreach (var detail in Model.ErrorDetails)
+            {
+                <li>@detail</li>
+            }
+        </ul>
+    </blockquote>
+}
+<h3>Verified Skills</h3>
+
+        <table>
+            <tr>
+            <th></th>
+            <th>Skill</th>
+            <th>Level</th>
+            <th>YOE</th>
+            <th>Hourly Wage</th>
+            </tr>
+           
+            @foreach (var item in Model.SkillsList)
+            {       
+                <tr>
+                    <td>
+                        <input type="hidden" name="SkillsList.Index" value="@item.SkillID" />
+                        <input type="hidden" name="SkillsList[@item.SkillID].SkillID" value="@item.SkillID" />
+                        <input type="checkbox" name="SkillsList[@item.SkillID].SelctedSkill" value="true" />
+                </td>
+                    <td>
+                            <input type="hidden" name="SkillsList[@item.SkillID].Description" value="@item.Description" />
+                        @item.Description</td>
+                        <td>
+                            <input type="radio" value="1" name="SkillsList[@item.SkillID].Level" />&nbsp;&nbsp;Novice
+                            <input type="radio" value="2" name="SkillsList[@item.SkillID].Level" />&nbsp;&nbsp;Proficient
+                            <input type="radio" value="3" name="SkillsList[@item.SkillID].Level" />&nbsp;&nbsp;Expert
+                    </td>
+                        <td>        
+                             <input type="number" name="SkillsList[@item.SkillID].YearsOfExperience" />
+                            </td>
+                        <td>                          
+                             <input type="number" name="SkillsList[@item.SkillID].HourlyWage" />
+                            </td>
+                </tr> 
+            }
+        </table>
+    </form>
+

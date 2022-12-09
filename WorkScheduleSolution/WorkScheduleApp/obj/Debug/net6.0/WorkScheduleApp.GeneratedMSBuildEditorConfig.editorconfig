@@ -1,0 +1,65 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = WorkScheduleApp
+build_property.RootNamespace = WorkScheduleApp
+build_property.ProjectDir = C:\Users\ekwom\OneDrive\Desktop\3rd semester  at NAIT\App Dev (DMIT 2018)\Assignments\2018-sep-2022-a01-exercises-Phahose\WorkScheduleSolution\WorkScheduleApp\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\ekwom\OneDrive\Desktop\3rd semester  at NAIT\App Dev (DMIT 2018)\Assignments\2018-sep-2022-a01-exercises-Phahose\WorkScheduleSolution\WorkScheduleApp
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/ekwom/OneDrive/Desktop/3rd semester  at NAIT/App Dev (DMIT 2018)/Assignments/2018-sep-2022-a01-exercises-Phahose/WorkScheduleSolution/WorkScheduleApp/Areas/Identity/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ekwom/OneDrive/Desktop/3rd semester  at NAIT/App Dev (DMIT 2018)/Assignments/2018-sep-2022-a01-exercises-Phahose/WorkScheduleSolution/WorkScheduleApp/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ekwom/OneDrive/Desktop/3rd semester  at NAIT/App Dev (DMIT 2018)/Assignments/2018-sep-2022-a01-exercises-Phahose/WorkScheduleSolution/WorkScheduleApp/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ekwom/OneDrive/Desktop/3rd semester  at NAIT/App Dev (DMIT 2018)/Assignments/2018-sep-2022-a01-exercises-Phahose/WorkScheduleSolution/WorkScheduleApp/Pages/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ekwom/OneDrive/Desktop/3rd semester  at NAIT/App Dev (DMIT 2018)/Assignments/2018-sep-2022-a01-exercises-Phahose/WorkScheduleSolution/WorkScheduleApp/Pages/Samples/AddSkill.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2FtcGxlc1xBZGRTa2lsbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ekwom/OneDrive/Desktop/3rd semester  at NAIT/App Dev (DMIT 2018)/Assignments/2018-sep-2022-a01-exercises-Phahose/WorkScheduleSolution/WorkScheduleApp/Pages/Samples/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2FtcGxlc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ekwom/OneDrive/Desktop/3rd semester  at NAIT/App Dev (DMIT 2018)/Assignments/2018-sep-2022-a01-exercises-Phahose/WorkScheduleSolution/WorkScheduleApp/Pages/SearchEmployee.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2VhcmNoRW1wbG95ZWUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ekwom/OneDrive/Desktop/3rd semester  at NAIT/App Dev (DMIT 2018)/Assignments/2018-sep-2022-a01-exercises-Phahose/WorkScheduleSolution/WorkScheduleApp/Pages/Shared/_LoginPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ekwom/OneDrive/Desktop/3rd semester  at NAIT/App Dev (DMIT 2018)/Assignments/2018-sep-2022-a01-exercises-Phahose/WorkScheduleSolution/WorkScheduleApp/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ekwom/OneDrive/Desktop/3rd semester  at NAIT/App Dev (DMIT 2018)/Assignments/2018-sep-2022-a01-exercises-Phahose/WorkScheduleSolution/WorkScheduleApp/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ekwom/OneDrive/Desktop/3rd semester  at NAIT/App Dev (DMIT 2018)/Assignments/2018-sep-2022-a01-exercises-Phahose/WorkScheduleSolution/WorkScheduleApp/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ekwom/OneDrive/Desktop/3rd semester  at NAIT/App Dev (DMIT 2018)/Assignments/2018-sep-2022-a01-exercises-Phahose/WorkScheduleSolution/WorkScheduleApp/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-75s4fwj61g
